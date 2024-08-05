@@ -25,5 +25,5 @@ An education website that provides online learning resources and courses. The pr
 
 - **Email**: harshnikam4536@gmail.com
 - **LinkedIn**: [Harsh Nikam](https://www.linkedin.com/in/harshnikam/)
-- **GitHub**: [harshnikam07](https://github.com/harshnikam07)
+- **GitHub**: [harshnikam07](https://github.com/Harsh-Nikam07)
 
