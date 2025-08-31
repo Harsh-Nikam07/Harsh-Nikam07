@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Path Tracker](https://github.com/Harsh-Nikam07/Path-Tracker)
+- 🔭 I’m currently working on [Quickko - Grocery Delivery App]([https://github.com/Harsh-Nikam07/Path-Tracker](https://github.com/Harsh-Nikam07/quickko-Frontend-react-native))
 
 - 🌱 I’m currently learning **React Native, Expo Router**
 
